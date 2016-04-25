@@ -128,12 +128,12 @@ pre{
 .aside > ul li a.active {
     color: #fff;
 }
-.eyes {
-    margin-top: 40px;
+.logo {
+    margin: 70px 0 40px;
 }
-.eyes,
-.eyes canvas {
-    max-width: 100%;
+.logo img {
+    margin: 0 auto;
+    display: block;
 }
 
 /* ------------------------------------------ */
